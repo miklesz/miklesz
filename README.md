@@ -15,6 +15,14 @@ I supervise doctoral research and teach multimedia processing, telecommunication
 - [Python](https://github.com/miklesz/Python)
 - [AMIPaC](https://github.com/miklesz/AMIPaC)
 
+## Demoscene
+
+I am active in the demoscene as Miklesz / Damage. My involvement dates back to the Amiga scene of the 1990s. Today I code real-time audiovisual demos in Python and Panda3D, including Damage's [1976](https://demozoo.org/productions/328952/), and contribute to graphics and design.
+
+I also help organise Xenium and run sessions for newcomers, including "How to Scene for Beginners" at Xenium 2024.
+
+- [Demoscene productions and credits](https://demozoo.org/sceners/7385/)
+
 ## Research and contact
 
 - [Publications](https://badap.agh.edu.pl/autor/leszczuk-mikolaj-003996)
@@ -22,3 +30,4 @@ I supervise doctoral research and teach multimedia processing, telecommunication
 - [Website](http://leszcz.uk)
 - [LinkedIn](https://www.linkedin.com/in/miklesz/)
 - Email: mikolaj.leszczuk@agh.edu.pl
+
